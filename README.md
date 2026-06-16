@@ -1,5 +1,5 @@
 # Data-Visualization-Dashboarding-in-Power-BI  
-Interactive Power BI dashboards for business analytics and data visualization.  
+Interactive Power BI dashboard for business analytics and data visualization.  
 
 # Sales Dashboard - Power BI Project  
   
